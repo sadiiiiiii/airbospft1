@@ -1,0 +1,1 @@
+Key.space  Key.cmd  l  o  g  Key.alt_l  Key.f4  Key.alt_l  Key.f4  
